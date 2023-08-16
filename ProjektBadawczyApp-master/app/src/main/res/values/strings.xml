@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projekt badawczy 2022</string>
+    <string name="edit_message">Enter your login</string>
+    <string name="button_send">Login</string>
+    <string name="label_login">Voice authentication app</string>
+
+</resources>
